@@ -1,0 +1,29 @@
+{
+  "templates": [
+    {
+      "name": "learning-airflow",
+      "templateVersion": "learning-airflow-12.0.0-20",
+      "runtimeVersion": "12.0.0"
+    },
+    {
+      "name": "learning-airflow",
+      "templateVersion": "learning-airflow-12.0.0-2",
+      "runtimeVersion": "11.0.0"
+    },
+    {
+      "name": "etl",
+      "templateVersion": "etl-12.0.0-2",
+      "runtimeVersion": "12.0.0"
+    },
+    {
+      "name": "dbt-on-astro",
+      "templateVersion": "dbt-on-astro-12.0.0-1",
+      "runtimeVersion": "12.0.0"
+    },
+    {
+      "name": "generative-ai",
+      "templateVersion": "generative-ai-12.0.0-4",
+      "runtimeVersion": "12.0.0"
+    }
+  ]
+}
